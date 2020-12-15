@@ -38,9 +38,9 @@ export default class Contact extends React.Component {
                       {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                       <form name={_.get(this.props, 'pageContext.frontmatter.form_id', null)} id={_.get(this.props, 'pageContext.frontmatter.form_id', null)} {...(_.get(this.props, 'pageContext.frontmatter.form_action', null) ? ({action: _.get(this.props, 'pageContext.frontmatter.form_action', null)}) : null)}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                         <div className="screen-reader-text">
-                          <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+                          <label>Don't fill this out if you're human: <input name="bot-field" aria-label="bot-field" /></label>
                         </div>
-                        <input type="hidden" name="form-name" value={_.get(this.props, 'pageContext.frontmatter.form_id', null)} />
+                        <input type="hidden" name="form-name" value={_.get(this.props, 'pageContext.frontmatter.form_id', null)} aria-label="form-name" />
                         {_.map(_.get(this.props, 'pageContext.frontmatter.form_fields', null), (field, field_idx) => (
                           <FormField key={field_idx} {...this.props} field={field} />
                         ))}

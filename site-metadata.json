@@ -18,11 +18,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
@@ -32,37 +27,30 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/terry_brown",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/terrybrownuk/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             },
             {
-                "label": "DEV",
-                "url": "https://dev.to/",
+                "label": "GitHub",
+                "url": "https://github.com/terrybrown",
                 "style": "icon",
-                "icon_class": "fa-dev",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "Brilliant Managers",
+                "url": "https://brilliantmanagers.info/",
+                "style": "icon",
+                "icon_class": "fa-chart-pie",
                 "new_window": true
             }
         ]
