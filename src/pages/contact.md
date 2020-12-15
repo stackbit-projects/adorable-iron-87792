@@ -14,14 +14,6 @@ form_fields:
     label: Email
     default_value: Your email address
     is_required: true
-  - input_type: select
-    name: subject
-    label: Subject
-    default_value: Please select
-    options:
-      - Error on the site
-      - Sponsorship
-      - Other
   - input_type: textarea
     name: message
     label: Message
@@ -35,4 +27,4 @@ submit_label: Send Message
 template: contact
 ---
 
-To get in touch fill the form below.
+You can reach me on email (terry@{this domain}), or via the contact form below.

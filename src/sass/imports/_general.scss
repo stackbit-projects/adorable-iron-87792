@@ -15,8 +15,7 @@ body {
 }
 
 a {
-  border-bottom: 2px solid _palette(accent);
-  color: _palette(primary);
+  color: _palette(sub-headings);
   text-decoration: none;
   -webkit-transition: border .3s ease, color .3s ease;
   transition: border .3s ease, color .3s ease;
@@ -34,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: _palette(secondary);
+  color: _palette(sub-headings);
   font-weight: bold;
   line-height: 1.2;
   margin: 1.66667rem 0 0.83333rem;
@@ -46,23 +45,27 @@ h6 {
 }
 
 h1 {
-  font-size: 2.22222rem;
+  font-size: 1.88889rem;
+  color: _palette(secondary);
 }
 
 h2 {
-  font-size: 1.88889rem;
-}
-
-h3 {
   font-size: 1.55556rem;
 }
 
-h4 {
+h3 {
   font-size: 1.33333rem;
 }
 
-h5 {
+h4 {
   font-size: 1.11111rem;
+}
+
+h5 {
+  font-size: 0.88889em;
+  letter-spacing: 0.0625em;
+  text-transform: uppercase;
+
 }
 
 h6 {
