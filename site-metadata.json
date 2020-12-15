@@ -1,8 +1,8 @@
 {
-    "description": "A minimal blogging theme for Stackbit",
+    "description": "A personal blog for Terry Brown.",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "terrybrown.me",
+        "tagline": "",
         "logo_img": "images/logo.png",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
@@ -67,5 +67,5 @@
         ]
     },
     "palette": "yellow",
-    "title": "Stackbit Fjord Theme"
+    "title": "Terry Brown - Personal Blog"
 }
