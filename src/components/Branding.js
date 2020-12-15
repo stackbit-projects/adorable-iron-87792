@@ -9,8 +9,7 @@ export default class Branding extends React.Component {
             <div className="site-branding">
               {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
               <p className="site-logo">
-                <Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))}
-                    alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null) + ' Logo'} /></Link>
+                <Link to={withPrefix('/')}>Terry Brown</Link>
               </p>
               )}
               {(_.get(this.props, 'pageContext.frontmatter.template', null) === 'home') ? (
