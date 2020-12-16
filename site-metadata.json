@@ -45,13 +45,6 @@
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
-            },
-            {
-                "label": "Brilliant Managers",
-                "url": "https://brilliantmanagers.info/",
-                "style": "icon",
-                "icon_class": "fa-chart-pie",
-                "new_window": true
             }
         ]
     },

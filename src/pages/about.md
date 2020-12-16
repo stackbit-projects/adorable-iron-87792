@@ -1,11 +1,11 @@
 ---
 title: About Me
-subtitle: A little more about what makes me tick
+subtitle: A little more about what makes me tick...
 img_path: images/about.jpg
 template: page
 ---
 
-I'm a Director of Software Engineering from [Whitley Bay](https://en.wikipedia.org/wiki/Whitley_Bay), in the North East of England. 
+I'm a Director of Software Engineering from [Whitley Bay](https://en.wikipedia.org/wiki/Whitley_Bay), in the North East of England. I've been a remote worker since joining [GSK](https://medium.com/gsktech) in 2018, and lead a primarily remote team.
 
 I'm an engineering leader and manager with a passion for people.  I try to create environments that allow teams to bring their best selves to work, and deliver best outcomes for the business.  If we can have a bit of fun while doing it, then it's a win.
 
