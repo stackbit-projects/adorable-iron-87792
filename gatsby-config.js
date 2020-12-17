@@ -28,6 +28,19 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+              // The property ID; the tracking code won't be generated without it
+              trackingId: "G-95EEG9TVCP",
+              // Setting this parameter is optional
+              anonymize: true,
+              // Setting this parameter is also optional
+              respectDNT: true,
+              // Defers execution of google analytics script after page load
+              defer: false,
+            },
+          }
     ]
 };
