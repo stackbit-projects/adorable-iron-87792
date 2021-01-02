@@ -57,6 +57,10 @@ The vertical' in the T jumps around in these people, and they quickly become str
 ## Love what you do, change it if you don't
 Software engineering is a buyers market - there are many roles out there, and generally speaking employers need you more than you need an employer.  If you find you have a bad boss that isn't responding to feedback, or you are being stretched to burnout regularly by an employer, another employer will be only too happy to provide a better experience.  Do not suffer a bad employer, and do not fear leaving quickly when the situation isn't conducive.
 
+This is incredibly true if an employer is not willing to invest in you.  That famous phrase/quote (may well be apocyrphal):
+> What If We Train Them & They Leave? What If We Don't & They Stay?
+This is fundamentally true in any modern employer.  Do not put up with an employer that is not prepared to invest in your growth, be that time, coaching/mentoring, all the way through to formalised budget/tooling for learning.
+
 ## Invest in you - the 37.5hrs week
 This one is likely to be controversial.  In my early career I used to spend a LOT of time outside of work trying to become better.  It is something I have continued to this day.  I made the mistake of 'doing more work' early in my career rather than focussing on growth, and I do not advocate for that.  That said, the best engineers I see in their careers today devote some time outside of their weekly contracted hours to personal growth.  This isn't a slight on those who can't (people with families, or with other challenges outside of work) - it's worth stating that if your employer works you so hard that you HAVE to take growth time outside of hours, it is perhaps worth considering a new employer.  A good employer will strive to ensure that you are at no higher than 80% allocation and you have some space to think, reflect, and learn during your working week.
 
@@ -74,6 +78,9 @@ So, to be clear:
 But:
 - I AM advocating for spending some time outside of your working hours focussed on what growth looks like for you.
 - I AM advocating for understanding what burnout looks like in you, and taking breaks when you need it 
+
+## Big problems are just a lot of little problems put together
+It can seem overwhelming when you are early in your career in software engineering - how do you solve those 'big problems'?  How do you build that huge feature, or that new service?  They key in any problem in life, and in software engineering, is if it feels huge, break it down.  What are the component parts? What do you have to do first? Is there anything foundational that needs to be done? Ask someone more experienced to show you how they'd break problems down.  Work away from the main solution in a 'sandbox', and just play with it - but bitesized chunks are so much easier to work with than epic deliveries.
 
 ## Continue learning from others
 It feels prudent to close out by saying that our field is vast.  Follow technical people you aspire to mirror on twitter, linkedin, etc. - read their blogs, listen to their conference talks.  Also, reach out to them for a chat!  Most engineers further into their career are only too happy to talk.
