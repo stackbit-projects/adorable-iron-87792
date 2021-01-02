@@ -86,5 +86,8 @@ It can seem overwhelming when you are early in your career in software engineeri
 ## Continue learning from others
 It feels prudent to close out by saying that our field is vast.  Follow technical people you aspire to mirror on twitter, linkedin, etc. - read their blogs, listen to their conference talks.  Also, reach out to them for a chat!  Most engineers further into their career are only too happy to talk.
 
+## Just make a start, it doesn't cost anything
+A great piece of advice from an old team mate that I thought worth including - 'just have a go!'.  You can get free development tools now, github accounts are free for source control, and all the cloud providers provide free tiers and you can play safely.  You are essentially in a fully free environment that is likely to mirror a lot of what an employer would have in place to deliver commercial products.  Having a presence of trying things is also a great indicator to future employers.  Just make a start!
+
 ## What advice would you give your younger self?
 I'd love to see what advice outside of the above you'd give to your younger self - perhaps take this post and share it with some of your own thoughts added?
