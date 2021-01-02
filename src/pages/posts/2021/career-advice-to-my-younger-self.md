@@ -59,6 +59,7 @@ Software engineering is a buyers market - there are many roles out there, and ge
 
 This is incredibly true if an employer is not willing to invest in you.  That famous phrase/quote (may well be apocyrphal):
 > What If We Train Them & They Leave? What If We Don't & They Stay?
+
 This is fundamentally true in any modern employer.  Do not put up with an employer that is not prepared to invest in your growth, be that time, coaching/mentoring, all the way through to formalised budget/tooling for learning.
 
 ## Invest in you - the 37.5hrs week
