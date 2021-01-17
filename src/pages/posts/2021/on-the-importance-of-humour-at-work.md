@@ -10,7 +10,7 @@ template: "post"
 
 ## Do you know anyone who doesn't like humour? Who doesn't like to feel joy and levity in their lives?
 
-**Me neither**
+**Me neither.**
 
 A recent book club at work had us focus in on podcasts instead of books, and I listened an episode of the brilliant Eat Sleep Work Repeat on '[Understanding Humour at Work](https://eatsleepworkrepeat.com/live-laugh-work-understanding-humour-at-work/)' with Jennifer Aaker and Naomi Bagdonas.  The authors run a course at Stanford on how laughter can make us better (and happier) in our jobs.
 
@@ -39,6 +39,10 @@ There are some great numbers in some of the resources below, but if we look at o
 
 Not all of us have a choice, but I suspect everyone reading this that wouldn't wish for a little more humour and joy in that 33.6% of our time.  The good thing is, the evidence seems to back up the case for it with our employers.
 
+### Humour in the time of a pandemic
+
+As most of us now sit in our working lives behind screens, isolated, and without the contact and context of being in the same room as our colleagues, humour has understandably become more complex.  Humour creates connection and trust, but the lack of connection certainly makes that first step of injecting humour so much more difficult for us.  Lack of video, bad connections, etc. all contribute towards disconnection.  When possible, try to maximise opportunities for humour in meetings.  Consider starting a meeting 5minutes late or finishing early, and spend that time talking and just catching up.  If you're uncomfortable with video on, consider it at the start and end of a meeting where you can maximise those opportunities for connection and to share a laugh.  Even seeing a smile (or giving one) during conversation can make a huge difference to how a meeting feels.
+
 ## The Case for Humour
 You will see in the resources section below a few talks and posts that go into this in more detail, but there are numerous studies now that show:
 - More than 80% of the workforce is stressed at work
@@ -47,11 +51,13 @@ You will see in the resources section below a few talks and posts that go into t
 
 If we take away the humanity of this, and think of it purely in financial terms, we know that each of the above costs UK businesses an estimated £26 billion per year.  **We are duty bound professionally, to our companies, to our employees, to our shareholders, or to anyone who cares about what the company exists to do, to try to create environments where these things are addressed**.
 
-> "I'm not funny, I don't want to try to be funny"
+### "I'm not funny, I don't want to try to be funny"
 
 Is this you? It's certainly me.  
 
 People tend to engage [impression management](https://en.wikipedia.org/wiki/Impression_management) at work and cover parts of our personalities that we view as less favourable, or that we feel others will judge us on.  The huge rise in the popularity of Psychological Safety is testament to the ongoing hope that there are environments being created where impression management isn't a concern for our teams so that they can get to the business at hand more wholeheartedly.
+
+Making a first step with humour can be daunting if it's not something you've previously done in the workplace.  The opportunities below around keeping a humour audit, and understanding your own humour style can help, but ultimately, starting can be as comfortable as validating someone elses humour.  If someone says something that makes you want to laugh - do so.  If they say something that makes you smile, acknowledge it.  Enjoying the humour in others is a great pathway to finding it in ourselves.
 
 As highlighted above though, this is not about telling jokes.  If we reflect upon our relationships with our friends, some of the best moments of laughter have just been in shared experiences and not because someone told a joke.  Humour is very much a mindset, and we can bring that mindset into our working lives easily.
 
