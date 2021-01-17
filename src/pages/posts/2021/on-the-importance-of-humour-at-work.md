@@ -10,7 +10,7 @@ template: "post"
 
 ## Do you know anyone who doesn't like humour? Who doesn't like to feel joy and levity in their lives?
 
-**Me neither.**
+**No, I don't either.**
 
 A recent book club at work had us focus in on podcasts instead of books, and I listened to an episode of the brilliant Eat Sleep Work Repeat on '[Understanding Humour at Work](https://eatsleepworkrepeat.com/live-laugh-work-understanding-humour-at-work/)' with Jennifer Aaker and Naomi Bagdonas.  The authors run a course at Stanford on how laughter can make us better (and happier) in our jobs.
 
