@@ -104,6 +104,8 @@ Recognise this isn't simply about 'being funny' but about a change in mindset.  
 
 > "Laughter is like a human bird song, it's how we connect with people"
 
+There is no prescribed way that this manifests in your working life.  Teams develop their own social norms and behaviours, I've worked in teams that were quiet, I've worked in teams that have been described as chaotic - but underlying all is those teams found humour and joy in their lives at work, and actively sought it out.
+
 **Be the change you want to see - build up that super power, be your authentic self and use it to better outcomes.**
 
 
