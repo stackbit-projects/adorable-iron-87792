@@ -9,7 +9,7 @@ excerpt: >-
 template: "post"
 ---
 
-It is comforting to see that we are in an age where Psychological Safety has become ubiquitous, and synonymous with high performing teams.  [Amy Edmondson](https://twitter.com/AmyCEdmondson) in her research over the years has popularised the term, and her [TEDx talk](https://www.youtube.com/watch?v=LhoLuui9gX8) gave us an early insight into the power of it. I’d urged everyone interested in the subject to read [The Fearless Organisation](https://fearlessorganization.com/) - it’s a superb work that talks about what what, why and how of Psychological Safety. Googles’ [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) in 2012 then helped elevate the stage a little after finding Psychological Safety as the missing link in helping to define what makes a high performing team.
+It is comforting to see that we are in an age where Psychological Safety has become ubiquitous, and synonymous with high performing teams.  [Amy Edmondson](https://twitter.com/AmyCEdmondson) in her research over the years has popularised the term, and her [TEDx talk](https://www.youtube.com/watch?v=LhoLuui9gX8) gave us an early insight into the power of it. I’d urge everyone interested in the subject to read [The Fearless Organisation](https://fearlessorganization.com/) - it’s a superb work that talks about the what, why and how of Psychological Safety. Googles’ [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) in 2012 then helped elevate the stage a little after finding Psychological Safety as the missing link in helping to define what makes a high performing team.
 
 But this post isn’t about the ‘what’ or ‘why’ behind Psychological Safety - there are so many other posts on the internet about that. I’ve been very lucky to talk to people across multiple organisations, sectors, and backgrounds over the past few years on this topic, and I will distil some of my thoughts in this article.
 
@@ -21,7 +21,7 @@ I wanted to explore both the [meteoric rise](https://trends.google.com/trends/e
 
   
 
-**This is not a bad thing!** Early on with any awareness/adoption you will appeal to a small number. Agile appealed to a set of stalwarts around software engineering and improving practices in an attempt to move away from what had come before (Waterfall etc.). Over time, popularity builds, and we start to see the topic brought into more and more conversations. We see the rise of frameworks, we see people selling services, we see adoption and normalisation of the terms within it. At this point, the topic will take on a life of its’ own. Large consultancies will help you get _there_, software tools will help you measure it and _deliver_ _it_, books and training courses will help you _learn it_. It becomes a self fuelling industry.
+**A rise in interest is not a bad thing!** Early on with any awareness/adoption you will appeal to a small number. Agile appealed to a set of stalwarts around software engineering and improving practices in an attempt to move away from what had come before (Waterfall etc.). Over time, popularity builds, and we start to see the topic brought into more and more conversations. We see the rise of frameworks, we see people selling services, we see adoption and normalisation of the terms within it. At this point, the topic will take on a life of its’ own. Large consultancies will help you get _there_, software tools will help you measure it and _deliver_ _it_, books and training courses will help you _learn it_. It becomes a self fuelling industry.
 
 The growth of Agile and DevOps over the past 10 years following that trend of popularisation into monetisation is very real, and has turned both Agile and DevOps into multi-million pound industries.
 
@@ -32,9 +32,10 @@ What we have started to see over the past few years is the same adoption and gro
 
 It’s great that it is talked about, and no bad thing that organisations are becoming more aware - the literature is vast, and the evidence is mounting - **Psychological Safety is pivotal to high performance within teams**.  
 
-![Used with permission from Gareth Owen](/images/2020/2020-09-30-3.png)
 
 **So what is the problem?** If all it does is feature in conversations, we are missing the value that comes from the behaviour changes that follow. What we have seen with Agile and DevOps across many industries over the past 10 years is something akin to the this flowchart.
+
+![Used with permission from Gareth Owen](/images/2020/2020-09-30-3.png)
 
   
 
@@ -72,8 +73,8 @@ Our position as leaders - be it middle managers, senior, or c-suite is outsized 
 *   **Be the last to speak** - positional authority is a reality. Focussing on listening, with a light touch towards steering in the day to day will get the most from your teams’ voices. What you say has impact, and you will likely have a great deal more context about the strategic, the vision, and the wider context and you can bring that to the table, but avoid being the first to speak in meetings - it silences voices and ideas.
 *   **Be secure in your vulnerability** - when a great deal of the practice in Psychological Safety involves interpersonal risk and stepping into the arena - saying “I don’t know” or “I screwed this up”, being comfortable with your own vulnerability and modelling it makes it so much easier for your teams to do the same.
 *   **Set expectations - feedback/candor, voices, respect, outcomes** - this isn’t, just about being ‘nice’ - raise the bar on your expectations of the team around them bringing their voices to the table.
-*   **Default to trust** \- it is harder for someone without positional authority to trust. That trust has to be earned. You have to blessed position of being able to start with trust with your teams. They are there with best intent to do a good job, and if you default to a position of trust, it will make behaviour change so much more rapid.
-*   **Make relationships more than just work** \- Treat others how you want to be treated. Treat others how they would like to be treated. We all of us have a lot more going on than our next project - talk to your team as humans, care personally about them - it makes it so much easier to build up an environment of healthy debate and challenge.
+*   **Default to trust** - it is harder for someone without positional authority to trust. That trust has to be earned. You have to blessed position of being able to start with trust with your teams. They are there with best intent to do a good job, and if you default to a position of trust, it will make behaviour change so much more rapid.
+*   **Make relationships more than just work** - ~~*treat others how you want to be treated.*~~ treat others **how they would like to be treated**. We all of us have a lot more going on than our next project - talk to your team as humans, care personally about them - it makes it so much easier to build up an environment of healthy debate and challenge.
 *   **Appreciation** - it doesn’t have to be grand gestures - we all have things to be thankful of with our team, show it with praise.
 *   **Be available** - “My door is always open”, except when it’s not and you’re in back to back meetings. Make time for the team, make sure they are aware they are a priority, and that you will be there for them.
 
@@ -97,6 +98,8 @@ The hard work starts directly after learning and measuring. Once you have an und
 The behaviours above, coupled with those in Amy’s book, and the research below can get you on the right track.  
 
 **Turn the discussion into action, bring courage to the table, and create an environment everyone wants to work in.**
+
+---------------
 
 Resources
 ---------
