@@ -80,7 +80,7 @@ This is perhaps the least tangible/actionable of our approaches, as it’s more 
 
 Our aim as leaders is to provide the best conditions for people to excel in their roles and add value for the business, for our customers, for our patients. We are also charged with helping those people grow into the best versions of themselves. It’s easier to do that by serving those people than controlling them. We understand that it is our teams that are the ultimate value and success drivers of the business. Our ability to deliver value to our customers is most often in the hands of those we lead.
 
-![Servant Leadership Model](/images/2020/2020-05-16-servant-leadership.png)
+![Servant Leadership Model](/images/2020/2020-06-16-servant-leadership.png)
 
 If you find that your teams are following the more traditional leadership model above, we’d urge you to experiment with that inverted pyramid — you can do so by seeking feedback, seeing suggestion, and including the team in decision making that impacts them, as well as a number of other activities. Staff who are able to co-create their environment and their direction take far more ownership, and are far more willing to share and bring their most effective selves to debate and conflict.
 
