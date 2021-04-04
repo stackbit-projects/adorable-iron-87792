@@ -30,6 +30,8 @@ In all of the work I have done with teams, and all of the research the differenc
 
 The manager of any team plays a hugely outsized role in this though, and this article focuses on the behaviours that can maximise and amplify a teams ability to become psychologically safe.
 
+It is worth calling out, your role as a manager is no longer about direct value add for your company.  As an individual contributor, you got to work day to day on doing that, but as a manager, your value add is now indirect - it's about creating environments, supporting, challenging and growing your teams, and maximising context for them so that they can do their best work.
+
 ### Firstly, this isn't about being 'nice'
 
 The highest performing teams exhibit distinct properties - whether you are looking at the definitions from Amy Edmondson ([high psychological safety, high accountability](https://www.ncabgroup.com/blog/how-to-create-a-learning-organization/)), or others in the field such as Timothy Clark ([inclusion, learner, contributor and challenger safety](https://www.leaderfactor.com/4-stages-of-psychological-safety)), Psychological Safety without some form of accountability/challenge is leaving employees wanting, and money on the table for the organisation.
