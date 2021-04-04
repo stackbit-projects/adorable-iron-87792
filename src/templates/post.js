@@ -2,11 +2,12 @@ import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
+import SEO from '../components/SEO';
 
 import {Layout} from '../components/index';
 import HeaderAlt from '../components/HeaderAlt';
 import Header from '../components/Header';
-import {htmlToReact} from '../utils';
+import {htmlToReact, withPrefix} from '../utils';
 import Footer from '../components/Footer';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -21,6 +22,19 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
+        let twitter = '';
+        if (
+          _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') &&
+          _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links')
+        ) {
+            let social_links = _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links');
+            let twitter =
+                '@' +
+                social_links
+                    .find((element) => element.label === 'Twitter')
+                    .url.split('/')
+                    .pop();
+        }
         return (
             <Layout {...this.props}>
               {(_.get(this.props, 'pageContext.frontmatter.hide_header', null) === true) ? (
@@ -28,6 +42,13 @@ export default class Post extends React.Component {
               ) : 
                 <Header {...this.props} site={this.props.pageContext.site} page={this.props.pageContext} image={_.get(this.props, 'pageContext.frontmatter.content_img_path', null)} />
               }
+              <SEO
+                    title={_.get(this.props, 'pageContext.frontmatter.title')}
+                    description={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+                    image={withPrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path', null))}
+                    pathname={this.props.location.pathname}
+                    author={twitter}
+                />
               <div id="content" className="site-content">
                 <main id="main" className="site-main inner">
                   <article className="post post-full">
