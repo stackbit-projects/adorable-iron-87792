@@ -22,19 +22,6 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
-        let twitter = '';
-        if (
-          _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') &&
-          _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links')
-        ) {
-            let social_links = _.get(this.props, 'pageContext.site.siteMetadata.footer.social_links');
-            let twitter =
-                '@' +
-                social_links
-                    .find((element) => element.label === 'Twitter')
-                    .url.split('/')
-                    .pop();
-        }
         return (
             <Layout {...this.props}>
               {(_.get(this.props, 'pageContext.frontmatter.hide_header', null) === true) ? (
@@ -47,7 +34,7 @@ export default class Post extends React.Component {
                     description={_.get(this.props, 'pageContext.frontmatter.excerpt')}
                     image={withPrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path', null))}
                     pathname={this.props.location.pathname}
-                    author={twitter}
+                    author="@terry_brown"
                 />
               <div id="content" className="site-content">
                 <main id="main" className="site-main inner">
