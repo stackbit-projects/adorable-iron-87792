@@ -30,8 +30,12 @@ function SEO({ description, image, title, author }) {
                     content: description
                 },
                 {
-                    property: 'og:image',
-                    content: image
+                  property: 'og:image',
+                  content: image
+                },
+                {
+                  property: 'twitter:image',
+                  content: image
                 },
                 {
                     name: 'twitter:card',
