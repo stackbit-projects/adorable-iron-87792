@@ -20,7 +20,7 @@ We cannot start to talk about Psychological Safety without first delving into th
 
 ### Managers vs. Leaders
 
-We won't get bogged down in this, but this article is focussed on 'people in charge of people' - that is, 'managers', 'senior managers', etc.  Feel free to use the term manager or leader interchangeably here, but ultimately I am focussed on those with people in their care.
+We won't get bogged down in this, but for the purposes of this article, we are focussed on '**people in charge of people**' - that is, 'managers', 'senior managers', etc.  Feel free to use the term manager or leader interchangeably here, but ultimately I am focussed on those **with people in their care**.
 
 ## The Role of Managers in Psychological Safety
 
