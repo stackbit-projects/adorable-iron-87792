@@ -1,13 +1,15 @@
 ---
 title: My CV
-subtitle: Because I don't just do this for the good of my health...
+subtitle: The 'what I do for a living' part...
 img_path: images/about.jpg
 template: page
 ---
 
+This CV is also available in [PDF format](/assets/terry-brown-cv-april-2021.pdf).
+
 <table>
   <tr>
-   <td><strong>Terry Brown</strong>
+   <td>## Terry Brown
 
 <a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / 
 
@@ -38,46 +40,46 @@ Leading a team of remote software and platform engineers within a cross-function
 
 Key achievements:
 *   Lead for the **handover of a digital e-commerce product which processes $200m in sales** (GSK Direct) from a tech team in the US to our own without any issue.  Then orchestrated effective ownership, improvement and ways of working on the product.  **Improved lead time, helping the teams to cut waste** from the release process while still safely getting products into production - **25% improvement in release cadence**.  
-*   Leading a team of cloud engineers to orchestrate a highly effective, **automated cloud platform on GCP, raising the bar for governance, security and zero trust operation**.  The outcome of this was a ‘0-60 vision’ to allow builder teams to go from** idea to production, safely, securely and compliant, in under 60 minutes.**  See [medium.com/gsktech](http://medium.com/gsktech) for posts from the team.  Challenged and changed bureaucracy around process to reduce human interaction/handoffs in the delivery value stream significantly. 
+*   Leading a team of cloud engineers to orchestrate a highly effective, **automated cloud platform on GCP, raising the bar for governance, security and zero trust operation**.  The outcome of this was a ‘0-60 vision’ to allow builder teams to go from **idea to production, safely, securely and compliant, in under 60 minutes**.  See [medium.com/gsktech](http://medium.com/gsktech) for posts from the team.  Challenged and changed bureaucracy around process to reduce human interaction/handoffs in the delivery value stream significantly. 
 *   **Design, orchestration, and delivery of a programme of psychological safety** - awareness, measurement, and behaviour change.  I’ve **rolled this out to thousands of employees and managers** now in multiple areas of the organisation (Pharma, Supply Chain, Consumer Healthcare, Legal), leading to active, measurable improvement of underlying culture in many areas.
 *   **Minimised time-to-productive for new employees** by overhauling the staff onboarding process.  It allows new engineers to get up to speed rapidly, and they are **often shipping value within the first week**.
-*   Created an organisational focus on technical excellence by **co-creating the GSK Tech Blog **([medium.com/gsktech](http://medium.com/gsktech)), giving builder teams a window to **share and amplify the tech culture within GSK**.  This has been **cited in a number of interviews across the organisation as a driver for recruitment**.
+*   Created an organisational focus on technical excellence by **co-creating the GSK Tech Blog** ([medium.com/gsktech](http://medium.com/gsktech)), giving builder teams a window to **share and amplify the tech culture within GSK**.  This has been **cited in a number of interviews across the organisation as a driver for recruitment**.
 *   Focus on **culture change and growth across the organisation**, spearheading and leading topics within a tech culture network, and **amplifying them to change across thousands of tech employees**.  Topics covered  inclusion and diversity, mental health, management, and leadership.
 *   **Developed an engineering progression framework** (influenced by the Monzo framework) to support conversations around growth for engineers across the tech organisation, which was adopted by many teams.
 
 
 
-**Development Team Lead - Bingo** – tombola	 _Aug 2015 → Nov 2018_
-**Web Team Lead** – tombola 	_Jul 2012 → Aug 2015_
-**Development Project Lead** – tombola	_Aug 2009 → Jul 2012_ 
-**Senior Developer** – tombola	_Aug 2009 → Sep 2011_
+**Development Team Lead - Bingo** – tombola	 _Aug 2015 → Nov 2018_ <br />
+**Web Team Lead** – tombola 	_Jul 2012 → Aug 2015_ <br />
+**Development Project Lead** – tombola	_Aug 2009 → Jul 2012_ <br />
+**Senior Developer** – tombola	_Aug 2009 → Sep 2011_ <br />
 Lead architect, engineer, and team management within the bingo division, focussed on a technical overhaul of all work, and heading up the people development of the engineering team as well as increasing the overall collaboration and communication within the wider organisation.  I maximised some key learnings here around building, adapting, and owning high traffic software, and managing teams in the ownership of those products.
 
 Key achievements:
-*   Design and **re-architecture of legacy codebase** into a modern modular multi-tenant solution,** helping the business scale from £10m to £20+m in profits** (on approx £90m revenue).
-*   Significant** driver on move to cloud** (AWS) from on-prem, initially a ‘lift and shift’ but eventually drove ownership costs down and improved resilience and performance of the site for customers. ** Monthly bills settled at around £125k from nearer £160k**.
+*   Design and **re-architecture of legacy codebase** into a modern modular multi-tenant solution, **helping the business scale from £10m to £20+m in profits** (on approx £90m revenue).
+*   Significant **driver on move to cloud** (AWS) from on-prem, initially a ‘lift and shift’ but eventually drove ownership costs down and improved resilience and performance of the site for customers. **Monthly bills settled at around £125k from nearer £160k**.
 *   **Drove the technology to enable the brand to scale** into other countries, helping tombola become **market leaders in Spain and Italy**, and expand upon UK presence with an Arcade offering.
 *   **Replaced manual releasing** with Continuous Delivery, **reducing MTTR to minutes (previously hours)**, and improving deployment frequency to daily (more regular possible).
 *   Spearheaded efforts to **move from legacy (flash) gaming to modern JavaScript based game development**, I created the new team, and set them up for success, **improving time to market for games**.
 *   Orchestrated improvements that saw total cost of ownership reduce - from **multiple painful customer impacting  incidents per month to a handful per year**.
 *   **Improved delivery processes** moving from waterfall through to minimal waste agile/lean processes - **reducing lead times across all divisions**.
-*   **Improved** significantly upon **Change Failure Rate **with automated testing across the full delivery pipeline that maximised on quality.
+*   **Improved** significantly upon **Change Failure Rate** with automated testing across the full delivery pipeline that maximised on quality.
 *   Delivered a** landslide change in data capture**, logging and monitoring, integrating key products (ELK, New Relic and others),** enabling data driven decisions across all aspects of the product**.
 
 Data driven examples:
 *   Site performance focus (reduction in response times across the site, uplift in customer transactions, reduction in live site issues).
-*   Improving password reset (a** reduction of 71,000 password reset walk aways** or customer service calls over the period of a year).
+*   Improving password reset (**a reduction of 71,000 password reset walk aways** or customer service calls over the period of a year).
 *   Move to login with email (**18% reduction in failed logins, and 32% of customers switch to using it**), 
-*   Chatmods (R**educing time to support for customer service staff**, and providing them the tools to resolve issues more efficiently). 
+*   Chatmods (**Reducing time to support for customer service staff**, and providing them the tools to resolve issues more efficiently). 
 *   Delivery of** push notifications** (the apps were slow to adopt this, and **adoption hit over 80% within the 6months** after launch, providing more timely/targeted information to players).
 
-**Development Team Lead** – Fawthrop McLanders	_Jan 2006 → Aug 2009_ 
+**Development Team Lead** – Fawthrop McLanders	_Jan 2006 → Aug 2009_ <br />
 Team and architecture lead; Build of e-commerce/CRM platform that was rolled out to many clients (ranging from £20k-£200k/annum sales); Led on ‘Microsoft Partner’ accreditation for the products, achieving significant internal cost savings on licensing; Stakeholder and client management.
 
-**Senior Software Developer** – SCHIN Ltd	_ Mar 2000 → Jan 2006_ 
+**Senior Software Developer** – SCHIN Ltd	_ Mar 2000 → Jan 2006_ <br />
 Engineering team lead within health informatics; Design and Development on first in class appraisal system for NHS GPs to address post-Shipman lack of transparency; Delivery of clinical decision making tooling for active use by GPs during consultation; Key external stakeholder management - Department of Health, Healthcare Practitioners,  Trusts and Practices.
 
-**Software Developer** – Newcastle University	_1996 → 2000_ 
+**Software Developer** – Newcastle University	_1996 → 2000_ <br />
 Many ‘early web’ solutions delivered; Unix system administration
 
 
