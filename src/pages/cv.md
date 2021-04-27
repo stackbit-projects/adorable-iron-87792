@@ -59,14 +59,14 @@ Key achievements:
 *   Orchestrated improvements that saw total cost of ownership reduce - from **multiple painful customer impacting  incidents per month to a handful per year**.
 *   **Improved delivery processes** moving from waterfall through to minimal waste agile/lean processes - **reducing lead times across all divisions**.
 *   **Improved** significantly upon **Change Failure Rate** with automated testing across the full delivery pipeline that maximised on quality.
-*   Delivered a** landslide change in data capture**, logging and monitoring, integrating key products (ELK, New Relic and others),** enabling data driven decisions across all aspects of the product**.
+*   Delivered a **landslide change in data capture**, logging and monitoring, integrating key products (ELK, New Relic and others), **enabling data driven decisions across all aspects of the product**.
 
 Data driven examples:
 *   Site performance focus (reduction in response times across the site, uplift in customer transactions, reduction in live site issues).
 *   Improving password reset (**a reduction of 71,000 password reset walk aways** or customer service calls over the period of a year).
 *   Move to login with email (**18% reduction in failed logins, and 32% of customers switch to using it**), 
 *   Chatmods (**Reducing time to support for customer service staff**, and providing them the tools to resolve issues more efficiently). 
-*   Delivery of** push notifications** (the apps were slow to adopt this, and **adoption hit over 80% within the 6months** after launch, providing more timely/targeted information to players).
+*   Delivery of **push notifications** (the apps were slow to adopt this, and **adoption hit over 80% within the 6months** after launch, providing more timely/targeted information to players).
 
 **Development Team Lead** – Fawthrop McLanders	<span style="float: right;">_Jan 2006 → Aug 2009_</span> <br />
 Team and architecture lead; Build of e-commerce/CRM platform that was rolled out to many clients (ranging from £20k-£200k/annum sales); Led on ‘Microsoft Partner’ accreditation for the products, achieving significant internal cost savings on licensing; Stakeholder and client management.
@@ -87,7 +87,7 @@ As part of my own growth, I take the uncomfortable step of delivering talks on s
 *   **Psychological Safety** - north east tech leaders user group, SEACON ([youtube link](https://www.youtube.com/watch?v=3uLrWEUlaP0&ab_channel=SEACOMGlobal)), GSK agility conference, and many other internal awareness sessions.  Also ran workshops to supplement  on high performing behaviours, understanding risk, and manager/leader behaviours.
 *   **Active LGBT+ Ally** - spoken on transgender parenting at panels for NHS Business Authority, Diageo, Scott Logic, and given talks within GSK on transgender parenting and allyship
 *   **DevOps** - a number of talks focussing around the human side of DevOps, to user groups (Leeds, Newcastle), at conferences, and within GSK a part of their journey towards improvement
-*   **Personal Productivity **- delivered talks to north east tech leaders and GSK on maximising personal productivity
+*   **Personal Productivity** - delivered talks to north east tech leaders and GSK on maximising personal productivity
 *   **Feedback and Emotional Intelligence** - north east tech leaders and GSK, talks on empathy, emotional intelligence, and effective feedback
 *   **Value Stream Mapping** - internal talks to support GSK transformation around VSM and systems thinking
 *   **Remote Working** - north east tech leaders talk on effective remote working, with particular focus on changes from the pandemic
