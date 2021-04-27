@@ -17,4 +17,6 @@ My pronouns are he/him, and I try to be an active ally to the LGBT+ community.  
 
 In my spare time, I can be found exercising (cycling, running, rowing), walking up mountains with my wife, or drinking a nice cup of tea.
 
+If you're interested in working with me, check out my [CV](/cv).
+
 *Please reach out for a chat if any of the above is interesting.*
