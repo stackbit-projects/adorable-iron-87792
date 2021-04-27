@@ -10,14 +10,11 @@ This CV is also available in [PDF format](/assets/terry-brown-cv-april-2021.pdf)
 ## Terry Brown
 <table>
   <tr>
-   <td><a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / <br />
+   <td style="vertical-align: top"><a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / <br />
 <a href="https://managerreadme.com/readme/terry_brown">https://managerreadme.com/readme/terry_brown</a> 
    </td>
-   <td style="text-align: right">
-07968 765 139
-
+   <td style="vertical-align: top; text-align: right">07968 765 139 <br />
 terry@hairylemon.net <br />
-
 Pronouns: he/him
    </td>
   </tr>
@@ -33,7 +30,7 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 
 ## Experience 
 
-**Director of Software Engineering** - GlaxoSmithKline	<span style="text-align: right; display: inline-block;">_Nov 2018 - Present_</span> <br />
+**Director of Software Engineering** - GlaxoSmithKline	<span style="float: right;">_Nov 2018 - Present_</span> <br />
 Leading a team of remote software and platform engineers within a cross-functional environment, delivering digital products and a cloud platform to support patients and healthcare practitioners.  Brought to GSK to be a ‘nucleus for change’ as the organisation underwent a number of ‘transformations’, and have guided, advised and supported throughout. I delivered an effective vision and strategy for the team, and helped amplify context and direction, supporting the team to  link in quarterly OKRs with wider organisational goals.  My role at GSK is primarily to lead an engineering team, though I’ve had the opportunity to have a far broader impact across the whole tech organisation.
 
 Key achievements:
@@ -47,10 +44,10 @@ Key achievements:
 
 
 
-**Development Team Lead - Bingo** – tombola	 _Aug 2015 → Nov 2018_ <br />
-**Web Team Lead** – tombola 	_Jul 2012 → Aug 2015_ <br />
-**Development Project Lead** – tombola	_Aug 2009 → Jul 2012_ <br />
-**Senior Developer** – tombola	_Aug 2009 → Sep 2011_ <br />
+**Development Team Lead - Bingo** – tombola	 <span style="float: right;">_Aug 2015 → Nov 2018_</span> <br />
+**Web Team Lead** – tombola 	<span style="float: right;">_Jul 2012 → Aug 2015_</span> <br />
+**Development Project Lead** – tombola	<span style="float: right;">_Aug 2009 → Jul 2012_</span> <br />
+**Senior Developer** – tombola	<span style="float: right;">_Aug 2009 → Sep 2011_</span> <br />
 Lead architect, engineer, and team management within the bingo division, focussed on a technical overhaul of all work, and heading up the people development of the engineering team as well as increasing the overall collaboration and communication within the wider organisation.  I maximised some key learnings here around building, adapting, and owning high traffic software, and managing teams in the ownership of those products.
 
 Key achievements:
@@ -71,13 +68,13 @@ Data driven examples:
 *   Chatmods (**Reducing time to support for customer service staff**, and providing them the tools to resolve issues more efficiently). 
 *   Delivery of** push notifications** (the apps were slow to adopt this, and **adoption hit over 80% within the 6months** after launch, providing more timely/targeted information to players).
 
-**Development Team Lead** – Fawthrop McLanders	_Jan 2006 → Aug 2009_ <br />
+**Development Team Lead** – Fawthrop McLanders	<span style="float: right;">_Jan 2006 → Aug 2009_</span> <br />
 Team and architecture lead; Build of e-commerce/CRM platform that was rolled out to many clients (ranging from £20k-£200k/annum sales); Led on ‘Microsoft Partner’ accreditation for the products, achieving significant internal cost savings on licensing; Stakeholder and client management.
 
-**Senior Software Developer** – SCHIN Ltd	_ Mar 2000 → Jan 2006_ <br />
+**Senior Software Developer** – SCHIN Ltd	<span style="float: right;">_Mar 2000 → Jan 2006_</span> <br />
 Engineering team lead within health informatics; Design and Development on first in class appraisal system for NHS GPs to address post-Shipman lack of transparency; Delivery of clinical decision making tooling for active use by GPs during consultation; Key external stakeholder management - Department of Health, Healthcare Practitioners,  Trusts and Practices.
 
-**Software Developer** – Newcastle University	_1996 → 2000_ <br />
+**Software Developer** – Newcastle University	<span style="float: right;">_1996 → 2000_</span> <br />
 Many ‘early web’ solutions delivered; Unix system administration
 
 
