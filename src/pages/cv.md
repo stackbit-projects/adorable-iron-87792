@@ -7,18 +7,16 @@ template: page
 
 This CV is also available in [PDF format](/assets/terry-brown-cv-april-2021.pdf).
 
+## Terry Brown
 <table>
   <tr>
-   <td>## Terry Brown
-
-<a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / 
-
+   <td><a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / <br />
 <a href="https://managerreadme.com/readme/terry_brown">https://managerreadme.com/readme/terry_brown</a> 
    </td>
    <td style="text-align: right">
 07968 765 139
 
-terry@hairylemon.net
+terry@hairylemon.net <br />
 
 Pronouns: he/him
    </td>
@@ -35,7 +33,7 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 
 ## Experience 
 
-**Director of Software Engineering** - GlaxoSmithKline	_Nov 2018 - Present_
+**Director of Software Engineering** - GlaxoSmithKline	<span style="text-align: right; display: inline-block;">_Nov 2018 - Present_</span> <br />
 Leading a team of remote software and platform engineers within a cross-functional environment, delivering digital products and a cloud platform to support patients and healthcare practitioners.  Brought to GSK to be a ‘nucleus for change’ as the organisation underwent a number of ‘transformations’, and have guided, advised and supported throughout. I delivered an effective vision and strategy for the team, and helped amplify context and direction, supporting the team to  link in quarterly OKRs with wider organisational goals.  My role at GSK is primarily to lead an engineering team, though I’ve had the opportunity to have a far broader impact across the whole tech organisation.
 
 Key achievements:
