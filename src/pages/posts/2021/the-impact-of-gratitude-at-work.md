@@ -16,7 +16,9 @@ Simon Sinek highlights in '[The Infinite Game](https://simonsinek.com/product/th
 
 In an organisation or team that aspires to be 'high performing', how do we go about it?  Where do we start? Does it take a lot of effort?  I'll share some of the simple things that my teams have done on this journey, and give some tips on how you can start to have impact with your own teams.  
 
-There may not be anything new here - the resources section at the bottom indicates that this is a topic that is well researched, and well covered. I'm just going to share in the hopes that it resonates and gives you something you can take away and make tangible.
+There may not be anything new here - the resources section at the bottom indicates that this is a topic that is well researched, and well covered. I'm just going to share in the hopes that it resonates and gives you something you can take away and make tangible.  
+
+If you are comfortable with the 'why', and want to see our journey, [skip ahead](#my-teams-journey)
 
 ## Why is gratitude and thanks important at work?
 We are, in 2021, experiencing the '[Great Resignation](https://www.wired.co.uk/article/great-resignation-quit-job)' - people are leaving bad (or even average) jobs in droves, and finding jobs instead that fit their lifestyle, patterns and purpose more.  We are also seeing [record levels of burnout](https://www.forbes.com/sites/nazbeheshti/2021/04/15/the-pandemic-has-created-a-new-kind-of-burnout-which-makes-well-being-more-critical-than-ever/?sh=43ce2612f019), exhaustion has set in, the yo-yo of lockdowns and personal isolation have all taken their toll. 
@@ -61,7 +63,7 @@ Some direct examples from our `#thanks` channel:
 ### Important Gotcha
 There are a few things to be aware of when putting something like this in place though - we do not want this to be a means to glorify over work.  A person who is demonstrating heroics and working outside of their role should of course be a candidate for praise, but they should equally be a candidate for a support discussion with their manager.  Your culture is your behaviours, and not getting thanked publicly doesn't mean someone isn't doing a great job.  There is a great quote from 'The Haystack Syndrome' by Eliyahu Goldratt: *"Tell me how you measure me, and I will tell you how I will behave"*. Focus on ensuring that those that are doing good work at their jobs are being recognised and thanked for it and focus on equity, not championing heroics.
 
-## My teams' journey
+<h2 id="my-teams-journey">My teams' journey</h2>
 Our team [used a product](https://www.15five.com/) to track check-ins, 1:1s and other aspects, and out of the box it came with something called 'high fives'.  The team engaged in a weekly check in using the tool (spending 15mins to reflect and share), and there was a section within there to 'Appreciate teammates by sharing the impact they had on you'.  We coupled that with a `#thanks` channel in slack, and all high fives were posted automatically to the thanks channel too.
 
 It was a simple start, though it resonated with our teams. There are some key breakdowns in the attached video that give insight into a year of thanks in 2020.  Here's a video sumarising it.
