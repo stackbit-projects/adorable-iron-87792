@@ -4,7 +4,7 @@ date: "2021-04-04"
 thumb_img_path: images/2021/2021-04-04-header.jpg
 content_img_path: images/2021/2021-04-04-header.jpg
 excerpt: >-
-  After being asked a career growth question and reflecting upon the past 20+ years of my own career, here are some thoughts that I would impart on my younger self in software engineering.
+  A look at the impact managers can have in creating Psychologically Safe environments.
 template: "post"
 ---
 
