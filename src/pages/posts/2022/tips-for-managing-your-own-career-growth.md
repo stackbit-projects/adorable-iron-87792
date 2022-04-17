@@ -30,7 +30,7 @@ I’ve seen people (and have been one of them) stretch their week and make learn
 
 That said, in my early career, I equated growth with 'time spent' and was adding 20-30 hours per week to an already cognitively busy schedule, which was simply exhausting.  Do not listen to those motivational speakers who talk about the ‘hustle’ and how you have to be willing to extend your days massively.  I simply WAS NOT effective in those hours because I was exhausting myself.  Something I wouldn’t realise for many years unfortunately.
 
-Be deliberate in any time you spend outside of work, but do not overburden yourself.
+**Be deliberate in any extra growth time you spend outside of work, but do not overburden yourself.**
 
 #### You should be at no more than 70-80% utilisation.
 
@@ -56,7 +56,7 @@ Each of us learns differently, and there are [many models](https://en.wikipedia.
 
 ### Don’t neglect the human skills (soft skills)
 
-This is especially true in my own field (software engineering), but we typically under index and on the importance of human skills (empathy, compassion, emotional intelligence, communication, courage, etc.) and under invest in their growth in our careers.  I neglected my own growth here for far too many years.  
+This is especially true in my own field (software engineering), but we typically under index on the importance of human skills (empathy, compassion, emotional intelligence, communication, courage, etc.) and under invest in their growth in our careers.  I neglected my own growth here for far too many years.  
 
 **Give enough space to learning and growing human skills - the time will always be worth it.**
 ### Find and raise your voice!
@@ -67,7 +67,7 @@ The aim of this is to maximise your exposure to opportunities, and it could easi
 
 ### Seek advice, lean on others
 
-This is linked to the previous point, and may seem counter of you owning your own path, but I’ve learned so much in conversation with others over the years.  
+This is linked to the previous point, and may seem counter to you owning your own path, but I’ve learned so much in conversation with others over the years.  
 
 Lean in to peers and your manager, or others in the org who are more experienced.  I’ve found that many people who are further into their career are only to happy so share that experience and learning.  You may also find that there are formal options at your employer - is there a coaching/mentoring scheme? or study groups? or special interest groups in areas you want to grow? Sign up and use them!
 
@@ -105,9 +105,9 @@ I wish I’d done this earlier in my career!  I have a terrible memory, so if yo
 
 I don’t think I can emphasise the importance of this one enough.  It not only helps you see progress and small gains, but longer term it can help with the business case for progression, salary review, or indeed for you to reflect on your whole career pathway.
 
-**Track your journey, document your gains and losses, it will help motivate you as you reflect on the journey.**
+**Track your activities, document your gains and losses, it will help motivate you as you reflect on the journey.**
 
-### Consider giving to get with your growth
+### Consider giving to help with your growth
 
 This perhaps applies as you get further into your career, though don’t discount it earlier.  Consider mentoring (and coaching) others.  I’ve found it to be hugely beneficial to my own growth, and I continue to coach and mentor people in differing backgrounds with differing experience and needs.  I’m hopeful it is beneficial to them, though I am always keen to highlight the benefit I also get - it is a reciprocal relationship, and it helps me with my own growth.  Even early career, you have skills, experiences, and ideas that are not the same as someone else, and they have huge value.
 
@@ -135,14 +135,30 @@ As highlighted, this isn’t a definitive shopping list that you have to follow 
 
 The key is to make it active and not passive, and to be deliberate about what you do with your own career growth.  I feel sure that focussing on, and solving for some of the above in your own context will help you accelerate and amplify your own journey, and will give you far better outcomes for your career.
 
+To summarise:
+
+* Making your career pathway your own is essential
+* Be deliberate in any extra growth time you spend outside of work, but do not overburden yourself
+* Understanding how you learn best will help you maximise the time you do spend, and get the most out of it
+* Give enough space to learning and growing human skills - the time will always be worth it
+* Look for places to raise your voice and seek opportunities to help you grow
+* Don't be afraid to lean on others with more knowledge than you while you grow
+* Spend time understanding the end state, then spend time breaking that down and understanding how you will get there, measure the journey, and make those incremental changes
+* Jump into discomfort, it will help you build the learning muscle by forcing you to adapt to the unknown
+* Don't isolate your growth, find ways of surfacing it, it can bring like minded people to us, and help us validate our pathway
+* Track your activities, document your gains and losses, it will help motivate you as you reflect on the journey
+* Think of that one thing you can give back, and leverage it to help you grow other skill
+* Take the time
+* Consider what shape your skills will take for your industry, and be deliberate about what the development towards those looks like
+
 **I wish I'd know much of this in my earlier career, I hope it helps you on your own journey.**
 
 ## Self Reflection Resources
 
-- [https://agileleanlife.com/tools-to-help-you-with-self-reflection/](https://agileleanlife.com/tools-to-help-you-with-self-reflection/)
-- [https://implicit.harvard.edu/implicit/index.jsp](https://implicit.harvard.edu/implicit/index.jsp)
-- [https://www.16personalities.com/](https://www.16personalities.com/)
-- [https://darineich.com/tools-for-self-understanding-inventories-assessments-surveys/](https://darineich.com/tools-for-self-understanding-inventories-assessments-surveys/)
-- [https://www.seerinteractive.com/blog/the-johari-window-a-simple-exercise-to-improve-your-one-on-one-meetings/](https://www.seerinteractive.com/blog/the-johari-window-a-simple-exercise-to-improve-your-one-on-one-meetings/)
-- [https://www.how-to-study.com/learning-style-assessment/](https://www.how-to-study.com/learning-style-assessment/)
-- [http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+- [Tools to help with self reflection](https://agileleanlife.com/tools-to-help-you-with-self-reflection/) - a broad collection of approaches to support your own self reflection
+- [Project Implicit](https://implicit.harvard.edu/implicit/index.jsp) - a means of measuring and understanding your implicit biases
+- [16 Personalities](https://www.16personalities.com/) - similar to MBTI, a means of more broadly understanding personality type
+- [Tools for self inventory](https://darineich.com/tools-for-self-understanding-inventories-assessments-surveys/) - another collection of tools to support self understanding and inventory
+- [The Johari window](https://www.seerinteractive.com/blog/the-johari-window-a-simple-exercise-to-improve-your-one-on-one-meetings/) - a means of surfacing traits through peer discovery
+- [Learning style assessment](https://www.how-to-study.com/learning-style-assessment/) - a means of understanding your learning style
+- [Learning style assessment (alternative)](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml) - another means of understanding your learning style
