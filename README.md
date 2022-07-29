@@ -1,5 +1,7 @@
 # ✨ adorable-iron ✨
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/775898e2-a616-4670-a7bc-10b20e87ef63/deploy-status)](https://app.netlify.com/sites/terrybrown-me/deploys)
+
 https://app.netlify.com/teams/terrybrown/overview
 
 
