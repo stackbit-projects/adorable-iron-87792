@@ -8,8 +8,6 @@ excerpt: >-
 template: "post"
 ---
 
-# How I approach blogging - tips for those who want to create
-
 I’ve found myself in a number of conversations recently, both at work (where we’re looking to present more of a public face to our work), and from people I coach and mentor asking for help with blogging and storytelling.  There are many guides out there on the internet, but I’ve tried to distil my own process, and pull in relevant content from others to make this useful.
 
 Aside from the process I outline, see the end of the post for some general things that I think are super important as you consider writing, and that often prevent people from publishing.
