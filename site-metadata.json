@@ -18,6 +18,11 @@
                 "style": "link"
             },
             {
+                "label": "CV",
+                "url": "/cv",
+                "style": "link"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
