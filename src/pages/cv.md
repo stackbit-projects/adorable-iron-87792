@@ -5,7 +5,7 @@ img_path: images/about.jpg
 template: page
 ---
 
-This CV is also available in [PDF format](/assets/terry-brown-cv-april-2021.pdf).
+This CV is also available in [PDF format](/assets/terry-brown-cv-october-2022.pdf).
 
 ## Terry Brown
 <table>
@@ -30,6 +30,26 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 
 ## Experience 
 **Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Present_</span> <br />
+
+Hired to help Healx scale their drug discovery pipelines through both people growth and broader technical improvement, with cross-functional tech and scientific teams.  A heavy driver of organisational culture, helping both direct and indirect teams move towards high performing, and accelerating Healx drug discovery efforts.
+
+Key achievements:
+* **Scaled organisation, delivering a hiring strategy, rewrites of hiring and onboarding process** to increase hiring consistency and success, 3x growth with 10 successful direct hires, and multiple manager/director hires across the org.  **Created and onboarded a number of new teams** - platform engineering, product engineering, and support more widely to help meet the scaling needs of the organisation.
+* **Delivered cross-tech growth support**, devising, delivering, and open-sourcing a [https://healx.io/blog/why-it-was-time-for-us-to-launch-a-tech-career-growth-framework/](**career growth framework**), **mentoring and coaching managers**, and mentoring engineers in their career growth.  Delivered supporting guidance, and advised on growth frameworks for Product Management and Design, and I’m now driving growth frameworks for Managers and the broader organisation.
+* **Driver and connector for company strategy** - lead or active on tech strategy group, scaling group, drug matching groups, compliance/QMS, and others.  Active in funding rounds, driving content and presentations for Series C funding.  Providing all of that context to teams to **maximise their commercial and company impact** via OKRs and broader team strategies.
+* **Led organisational and process efficiencies, delivering process improvement research and value stream mapping exercises**, taking complex processes and optimising, taking ~1 month processes with heavy manual toil into ~2-3 days of automation, **improving speed of delivery and feedback loops** for all teams involved.
+* Strong driver of technical strategy and practice
+    * **Developed and Delivered a cloud strategy** to transition a legacy cloud platform with significant manual toil and bottlenecks, and optimising for automation, developer experience, and security posture.  
+    * **Built out cloud principles and practices at Healx**, drove platform engineering to build out an in-place replacement for the legacy platform, **allowing engineers to move from idea to production easily, and quickly** - shifting from  ‘weeks’ to  ‘minutes’  for new workload orchestration, improving value delivery and speed to market hugely.
+    * **Focusing the team around optimal cloud usage**, bringing about **~20% (~£110,000) annual saving in cloud costs**, without any detrimental impact to users, stability, or performance.
+    * **Driver on Legacy Data Migration** - ran workshops, and helped build strategy and plan for migration between significant legacy data storage and a **more manageable, scalable solution**.
+* **Measurable impact with teams and culture**, having a ‘top 5%’ manager 360 review cross company, and having impact on Engagement (raising scores from 6.0 to 8.5 in 2021), Loyalty (4.4 to 8.6) and building high scores for key impact drivers for commercial delivery - Autonomy 10.0, Management Support 10.0, Growth (Coaching and Mentoring) 10.0, Freedom of Opinion 9.8, Peer relationships 9.5, Recognition 9.3, Challenging work 9.2
+* **Active contributor to Healx culture**
+    * Engagement with Engineering SIG - delivering widely adopted RFCs for Code Review Best Practice, Coding Standards, Definitions of Ready/Done, Cloud Best Practice, Tech Lead, Principal/Staff Archetypes, Third Party Oversight (TPO)
+    * Delivery of Feedback and Emotional Intelligence  workshop, Psychological Safety talks (company wide + managers), 
+    * Lead on Culture Champions groups, driving people strategy with People team, occasional Chair of the Diversity, Equity and Inclusion group
+    * Published opinion pieces externally on platform teams and psychological safety 
+
 
 **Director of Software Engineering** - GlaxoSmithKline	<span style="float: right;">_Nov 2018 - Sept 2021_</span> <br />
 Leading a team of remote software and platform engineers within a cross-functional environment, delivering digital products and a cloud platform to support patients and healthcare practitioners.  Brought to GSK to be a ‘nucleus for change’ as the organisation underwent a number of ‘transformations’, and have guided, advised and supported throughout. I delivered an effective vision and strategy for the team and helped amplify context and direction, supporting the team to  link quarterly OKRs with wider organisational goals.  My role at GSK is primarily to lead an engineering team, though I’ve had the opportunity to have a far broader impact across the whole tech organisation.
