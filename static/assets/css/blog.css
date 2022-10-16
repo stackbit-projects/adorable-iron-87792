@@ -1,3 +1,5 @@
 thead {
     background-color: #eeeeee;
 }
+
+p:has(+ ul) { margin-bottom: 0; }
