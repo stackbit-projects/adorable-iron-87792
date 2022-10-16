@@ -30,7 +30,6 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 
 ## Experience 
 **Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Present_</span> <br />
-
 Hired to help Healx scale their drug discovery pipelines through both people growth and broader technical improvement, with cross-functional tech and scientific teams.  A heavy driver of organisational culture, helping both direct and indirect teams move towards high performing, and accelerating Healx drug discovery efforts.
 
 Key achievements:
