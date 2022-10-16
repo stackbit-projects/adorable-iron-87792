@@ -5,11 +5,13 @@ img_path: images/about.jpg
 template: page
 ---
 
-I'm a Director of Software Engineering from [Whitley Bay](https://en.wikipedia.org/wiki/Whitley_Bay), in the North East of England. I've been a remote worker since joining [GSK](https://medium.com/gsktech) in 2018, and lead a primarily remote team.
+I'm a Director of Software Engineering from [Whitley Bay](https://en.wikipedia.org/wiki/Whitley_Bay), in the North East of England. I've been a remote worker since 2018 in both [GSK](https://medium.com/gsktech) and [Healx](https://healx.io), and I lead primarily remote teams.
 
-I'm an engineering leader and manager with a passion for people.  I try to create environments that allow teams to bring their best selves to work, and deliver best outcomes for the business.  If we can have a bit of fun while doing it, then it's a win.
+I'm an engineering leader and manager with a passion for people.  I try to create environments that allow managers and teams to bring their best selves to work, and deliver best outcomes for the business.  I take a coaching/feedback approach with my managers, and lean on servant leadership.  If we can have a bit of fun while doing it, then it's a win.
 
 I speak publicly on organisational culture, psychological safety, DevOps and high performing teams.  I advocate for discussion on mental health and suicide, and feel that we're better together and talking about the things that we struggle with.
+
+If you want to read more about my approach to leadership, my [manager readme](https://managerreadme.com/readme/terry_brown) is available.
 
 My pronouns are he/him, and I try to be an active ally to the LGBT+ community.  I'm passionate about transgender issues, though not an expert.
 
