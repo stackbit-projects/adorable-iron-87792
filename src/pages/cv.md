@@ -47,7 +47,7 @@ Key achievements:
     * Engagement with Engineering SIG - delivering widely adopted RFCs for Code Review Best Practice, Coding Standards, Definitions of Ready/Done, Cloud Best Practice, Tech Lead, Principal/Staff Archetypes, Third Party Oversight (TPO)
     * Delivery of Feedback and Emotional Intelligence  workshop, Psychological Safety talks (company wide + managers), 
     * Lead on Culture Champions groups, driving people strategy with People team, occasional Chair of the Diversity, Equity and Inclusion group
-    * Published opinion pieces externally on platform teams and psychological safety 
+    * Published opinion pieces externally on [platform teams](https://www.siliconrepublic.com/enterprise/cloud-platform-scaling-startups) and [psychological safety](https://www.thehrdirector.com/psychological-safety-cant-left-hr-everyone/) 
 
 
 **Director of Software Engineering** - GlaxoSmithKline	<span style="float: right;">_Nov 2018 - Sept 2021_</span> <br />
