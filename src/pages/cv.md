@@ -51,7 +51,7 @@ Key achievements:
 
 
 **Director of Software Engineering** - GlaxoSmithKline	<span style="float: right;">_Nov 2018 - Sept 2021_</span> <br />
-Leading a team of remote software and platform engineers within a cross-functional environment, delivering digital products and a cloud platform to support patients and healthcare practitioners.  Brought to GSK to be a ‘nucleus for change’ as the organisation underwent a number of ‘transformations’, and have guided, advised and supported throughout. I delivered an effective vision and strategy for the team and helped amplify context and direction, supporting the team to  link quarterly OKRs with wider organisational goals.  My role at GSK is primarily to lead an engineering team, though I’ve had the opportunity to have a far broader impact across the whole tech organisation.
+Leading teams of remote software and platform engineers within a cross-functional environment, delivering digital products and a cloud platform to support patients and healthcare practitioners.  Brought to GSK to be a ‘nucleus for change’ as the organisation underwent a number of ‘transformations’, and have guided, advised and supported throughout. I delivered an effective vision and strategy for the team and helped amplify context and direction, supporting the team to  link quarterly OKRs with wider organisational goals.  My role at GSK is primarily to lead an engineering team, though I’ve had the opportunity to have a far broader impact across the whole tech organisation.
 
 Key achievements:
 
