@@ -23,9 +23,9 @@ To avoid overloading, I've also <img src="/images/emoji/star.png" style="width: 
 * [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) - very much in the mindset of the other books, but a practical look at 'how to get there'. 
 
 <img src="/images/emoji/books.png" style="width: 25px" alt="books" />  **Humans / Org Design / Delivery Challenges**
-* [Team Topologies: Organising business and technology teams for fast flow](https://www.goodreads.com/book/show/44135420-team-topologies) - a superb look at some patterns and challenges of building effective teams within orgs to get to delivery
+* [Team Topologies: Organising business and technology teams for fast flow](https://www.goodreads.com/book/show/44135420-team-topologies) <img src="/images/emoji/star.png" style="width: 25px" alt="star" /> - a superb look at some patterns and challenges of building effective teams within orgs to get to delivery
 * [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) - an old book, but still has many useful points around effective software/project delivery
-* [Making Work Visible: Exposing time theft to optimise work and flow](https://www.goodreads.com/book/show/36458712-making-work-visible) :star: - a superb read on the many things that prevent teams from effectively delivering, and talks about 'time theft'.
+* [Making Work Visible: Exposing time theft to optimise work and flow](https://www.goodreads.com/book/show/36458712-making-work-visible) - a superb read on the many things that prevent teams from effectively delivering, and talks about 'time theft'.
 
 <img src="/images/emoji/books.png" style="width: 25px" alt="books" />  **Data**
 * [Designing data-intensive applications](https://www.goodreads.com/book/show/44135420-team-topologies) - if you only read one book on data, I think this is great - it's perhaps less around 'effective delivery' and more around 'effectively architecting and owning', but is a useful supplemental read.
