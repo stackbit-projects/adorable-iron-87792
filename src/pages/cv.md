@@ -5,7 +5,7 @@ img_path: images/about.jpg
 template: page
 ---
 
-This CV is also available in [PDF format](/assets/terry-brown-cv-october-2022.pdf).
+This CV is also available in [PDF format](/assets/terry-brown-cv-august-2023.pdf).
 
 ## Terry Brown
 <table>
@@ -29,6 +29,22 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 
 
 ## Experience 
+**Director of Engineering** - Mews      <span style="float: right;">_Sep 2023 - Present_</span> <br />
+Supporting the scaling and growth of Mews.
+
+**Head of Engineering** - Doccla      <span style="float: right;">_Jan 2023 - Sep 2023_</span> <br />
+Supporting strong commercial growth, I was hired to scale and mature the tech organisation and bring about a culture of technical excellence and .
+
+Key Achievements:
+* Drove **improvement, adoption, and internal ownership of all code** providing business value which had primarily been provided by external partners, reducing ownership costs and improving quality significantly
+* **Co-creation and delivery of both a product strategy and cloud strategy** to align digital product delivery to company strategy and goals
+* Built and delivered a **hiring strategy**, and **doubled the size of the tech org**, including the creation of a Cloud Platform and Data teams
+* **Improved many processes**, including hiring, onboarding and OKRs, introducing a single pane of glass company wide for group and team OKRs.  Also delivered process improvement around quality, introducing processes such as RFC and ADR.
+* **Improved knowledge management**, creating a technical library leading to improved quality and visibility of Technical, Security and Compliance information
+* **Redesigned the tech org** around value streams, aligning cross functional teams to Patient, Clinical, and Operational Excellence and **provide empowerment, autonomy and  ownership** within the squads
+* **Delivery and lead of adoption of ISO 27001**, going from **zero to fully certified in 5 months**, achieving a final audit with zero findings and no improvement needed.  The process saw significant adoption of automation and evidence trail creation to improve information security across the organisation.
+* **Providing Data Protection Officer (DPO) to the whole organisation**, advising on and creating standards to ensure company information governance was prioritised
+
 **Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Present_</span> <br />
 Hired to help Healx scale their drug discovery pipelines through both people growth and broader technical improvement, with cross-functional tech and scientific teams.  A heavy driver of organisational culture, helping both direct and indirect teams move towards high performing, and accelerating Healx drug discovery efforts.
 
