@@ -1,6 +1,6 @@
 ---
 title: "Becoming a staff engineer - some resources"
-date: "2022-07-29"
+date: "2024-03-15"
 thumb_img_path: images/2024/2024-03-15.jpeg 
 content_img_path: images/2024/2024-03-15.jpeg
 excerpt: >-
