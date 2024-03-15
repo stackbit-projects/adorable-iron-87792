@@ -10,15 +10,15 @@ template: "post"
 
 I've had this conversation a number of times in the past few weeks, and have promised to share some of my own thoughts on it (none of these resources existed in my own IC pathway to staff!) in the hopes it helps.  Many of the below are an 'optional if it works for you', but typically staff engineers will be staying abreast of industry trends, be able to discuss current technical (and potentially future), and better guide broadly a company to success.
 
-**Internal Resources**
+## Internal Resources
 
 Your company may well have some of these in place already, and they're a great place to investigate
 
--   Career Progression Framework - does your org have one? If not, consider looking at something like [progression.fyi](https://progression.fyi), where there are many companies who have specified their growth pipelines.  Review this with your manager, and you will find a broad 'fit' for staff engineer in your company, and will be able to at least self reflect.
--   Your manager - when you are interested in the pathway, a chat can really help - I've done this a few times in Mews, and many times externally.  Helping people see how to be visible, how to amplify, how to best evidence can be a really useful discussion.
--   Other staff engineers in the company - they mostly (like you) considered this pathway in the past, and planned out their own growth to get to the level you aspire to.  They will be happy to share, to give you advice, and to nudge you towards better (and if they don't do this, they're possibly not staff engineers!)
+-   **Career Progression Framework** - does your org have one? If not, consider looking at something like [progression.fyi](https://progression.fyi), where there are many companies who have specified their growth pipelines.  Review this with your manager, and you will find a broad 'fit' for staff engineer in your company, and will be able to at least self reflect.
+-   **Your manager** - when you are interested in the pathway, a chat can really help - I've done this a few times in Mews, and many times externally.  Helping people see how to be visible, how to amplify, how to best evidence can be a really useful discussion.
+-   **Other staff engineers in the company** - they mostly (like you) considered this pathway in the past, and planned out their own growth to get to the level you aspire to.  They will be happy to share, to give you advice, and to nudge you towards better (and if they don't do this, they're possibly not staff engineers!)
 
-**Books**
+## Books
 
 I'm a fan of the below.  I found Will Larson's book perhaps more insightful, but each of these are useful.
 
@@ -26,11 +26,11 @@ I'm a fan of the below.  I found Will Larson's book perhaps more insightful, bu
 -   [Staff Engineering](https://staffeng.com/) - Will Larson - this is regularly suggested by many as folks step towards the staff pathway, and is incredibly thorough view (again) of what it is to be a staff engineer.  He popularised the 'archetype' (that there isn't just one shape of staff engineer).
 -   The Software Engineers Guidebook - the whole book is brilliant, but really for this, just 'chapter 2' around owning your career.  The best staff engineers I know routinely do all of the things Gergely highlights in this chapter, and perhaps a little more. 
 
-**Conferences**
+## Conferences
 
 -   [StaffPlus](https://leaddev.com/staffplus-london) (from LeadDev) - I've not attended this myself (it didn't exist when I was staff), though I've heard good things and LeadDev conferences tend to be good.
 
-**Newsletters**
+## Newsletters
 
 There are *many* of these, and I tend to recommend a 'subscribe and scan' approach, as you'll never want to read every article in every newsletter.
 
@@ -44,7 +44,7 @@ There are *many* of these, and I tend to recommend a 'subscribe and scan' appr
 -   [Software Lead Weekly](https://softwareleadweekly.com/) - crossover leadership/tech, good
 -   [Leadership in Tech](https://newsletter.leadershipintech.com/) - often leadership, but sometimes good technical leadership articles
 
-**Podcasts**
+## Podcasts
 
 Not all are current, but many have great episodes.  Not all are specifically staff, but many cover the wider aspects.
 
@@ -58,11 +58,13 @@ Not all are current, but many have great episodes.  Not all are specifically st
 -   [StaffEng](https://podcasts.apple.com/gb/podcast/staffeng/id1559261829) - not current, but interviews with staff engineers
 -   [Tech Lead Journal](https://podcasts.apple.com/gb/podcast/tech-lead-journal/id1523421550) - bigger technical leadership topics
 
-**Blog Posts**
+## Blog Posts
 
 There are a myriad, but these search terms often bring interesting topics:
 
 -   "[Becoming a staff engineer](https://www.google.com/search?q=becoming+staff+engineer&sca_esv=7f485625a55f820f&sxsrf=ACQVn0-hg0MFQ4N_JWaR-HiPXQXkSbsyUg%3A1710495357571&ei=fRb0ZbG_IqDThbIPp5yVUA&ved=0ahUKEwjx8bXh-_WEAxWgaUEAHSdOBQoQ4dUDCBA&uact=5&oq=becoming+staff+engineer&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2JlY29taW5nIHN0YWZmIGVuZ2luZWVyMgUQABiABDILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNIqAlQtgJYtgJwAngAkAEAmAF7oAF7qgEDMC4xuAEDyAEA-AEBmAIDoAKGAcICDhAAGIAEGIoFGIYDGLADmAMAiAYBkAYFkgcDMi4xoAesAw&sclient=gws-wiz-serp)"
 -   "[Staff Engineer Career Path](https://www.google.com/search?q=Staff+Engineer+Career+Path&sca_esv=7f485625a55f820f&sxsrf=ACQVn0_hSmhudtuXQpuiJEi_F86hbV1FHw%3A1710495360740&ei=gBb0ZePtLOrOhbIPwtS64AI&ved=0ahUKEwjjrffi-_WEAxVqZ0EAHUKqDiwQ4dUDCBA&uact=5&oq=Staff+Engineer+Career+Path&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlN0YWZmIEVuZ2luZWVyIENhcmVlciBQYXRoMgUQABiABDIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDSI8kUIAFWM8icAF4AZABAJgBfKAB9hKqAQQxNy45uAEDyAEA-AEBmAIboALKE8ICChAAGEcY1gQYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgsQABiABBiKBRiRAsICERAuGIMBGMcBGLEDGNEDGIAEwgIKEAAYgAQYFBiHAsICChAuGIAEGIoFGEPCAgsQLhiABBiKBRiRAsICCBAAGBYYHhgPwgIKEAAYFhgeGA8YCpgDAIgGAZAGCJIHBDE4LjmgB_W2AQ&sclient=gws-wiz-serp)"
 
-**What about others? What advice would you give? What pointers? What resources?**
+## What about you?
+
+**What advice would you give? What pointers? What resources?**
