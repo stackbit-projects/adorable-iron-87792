@@ -24,7 +24,7 @@ I'm a fan of the below.  I found Will Larson's book perhaps more insightful, bu
 
 -   [The Staff Engineers Path](https://newsletter.pragmaticengineer.com/p/the-staff-engineers-path) - (link is insights by Tanya Reilly, the author).  It covers nicely some of the changes expected in mindset and activity as you reach staff.
 -   [Staff Engineering](https://staffeng.com/) - Will Larson - this is regularly suggested by many as folks step towards the staff pathway, and is incredibly thorough view (again) of what it is to be a staff engineer.  He popularised the 'archetype' (that there isn't just one shape of staff engineer).
--   The Software Engineers Guidebook - the whole book is brilliant, but really for this, just 'chapter 2' around owning your career.  The best staff engineers I know routinely do all of the things Gergely highlights in this chapter, and perhaps a little more. 
+-   [The Software Engineers Guidebook](https://www.engguidebook.com/) - the whole book is brilliant, but really for this, 'chapter 2' around owning your career, and then the staff engineer section.  The best staff engineers I know routinely do all of the things Gergely highlights in this chapter, and perhaps a little more. 
 
 ## Conferences
 
