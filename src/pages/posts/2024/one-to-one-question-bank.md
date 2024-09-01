@@ -142,12 +142,12 @@ One-to-ones are our opportunity to connect, to build an effective relationship s
   * How will I know if you’re grumpy?
   * What can I do to help when you are grumpy?
 * Company + Process
-  * For longer term employees:
+  * _For longer term employees:_
     * How are you feeling at [Company]?
     * What would you like to see change at [Company]]?
     * How are your relationships?
     * What slows you down and prevents you from being your best self?
-  * For new employees:
+  * _For new employees:_
     * What were you most nervous about in joining [Company]]?
     * What are your top three hopes for the culture and ways of working at [Company]?
 * Growth
