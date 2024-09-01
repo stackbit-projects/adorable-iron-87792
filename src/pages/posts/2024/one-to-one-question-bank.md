@@ -56,7 +56,7 @@ Most of these are focused on the manager asking the question, though many of the
 From [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) and the [follow up post](https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880).  It’s never a bad thing to bring the harder questions to 1:1s, those things that are often not talked about, but may be important.
 
 * We never seem to talk about X.  Why is that?
-* What worries you most in our team?  At Mews?
+* What worries you most in our team?  At [Company]?
 * What is impacting trust between us at the moment?
 * How good is our relationship? What could we do to improve it?
 * What’s going on for you at the moment that makes you feel less engaged?
@@ -144,12 +144,12 @@ One-to-ones are our opportunity to connect, to build an effective relationship s
 * Company + Process
   * For longer term employees:
     * How are you feeling at [Company]?
-    * What would you like to see change at Mews?
+    * What would you like to see change at [Company]]?
     * How are your relationships?
     * What slows you down and prevents you from being your best self?
   * For new employees:
-    * What were you most nervous about in joining Mews?
-    * What are your top three hopes for the culture and ways of working at Mews?
+    * What were you most nervous about in joining [Company]]?
+    * What are your top three hopes for the culture and ways of working at [Company]?
 * Growth
   * What do you feel your gaps are at the moment? 
   * Are you getting enough time for growth?
