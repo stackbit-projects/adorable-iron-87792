@@ -1,5 +1,5 @@
 ---
-title: "One-to-One Question Bank"
+title: "What is the ideal engineering team size?"
 date: "2024-12-19"
 thumb_img_path: images/2024/2024-12-19.png 
 content_img_path: images/2024/2024-12-19.png
@@ -7,8 +7,6 @@ excerpt: >-
   What are my thoughts on the ideal team size for an engineering team?
 template: "post"
 ---
-
-## 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐢𝐝𝐞𝐚𝐥 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐭𝐞𝐚𝐦 𝐬𝐢𝐳𝐞?
 
 I had someone ask this recently, and as with any software engineering answer, I found myself saying "it depends".  But, I have some opinions on this, of course.  I'd love to hear from others, as none of what I share below is 'right', just 'my own mileage', and so other thoughts really would be welcome.  This post is just a small opinion piece, and doesn't dig into any of the science behind group dynamics (e.g. Dunbar's number, etc.).
 
